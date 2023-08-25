@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak986786&label=Profile%20views&color=0e75b6&style=flat" alt="deepak986786" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak986786" alt="deepak986786" /></a> </p>
+ <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak986786" alt="deepak986786" /></a> </p>  -->
 
 - 👨‍💻 All of my projects are available at [deepakpf.netlify.app](deepakpf.netlify.app)
 
@@ -26,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak986786&show_icons=true&locale=en" alt="deepak986786" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak986786&" alt="deepak986786" /></p>
+
+#### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Deepak986786&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
