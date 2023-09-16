@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, My name is Deepak K Singh</h2>
-<h3 align="center">Passionate full stack software developer with over 1.2+ years of experience in creating clean, efficient, and innovative solutions.I love solving complex problems and building software that makes a positive impact.</h3>
+<h3 align="center">Passionate full stack software developer with over 1.3+ years of professional experience in creating clean, efficient, and innovative solutions.I love solving complex problems and building software that makes a positive impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak986786&label=Profile%20views&color=0e75b6&style=flat" alt="deepak986786" /> </p>
 
